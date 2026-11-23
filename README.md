@@ -29,18 +29,18 @@ assets/favicon.svg
 
 ## Mettre en ligne sur GitHub Pages
 
-1. Sur GitHub, créez un dépôt **public** nommé exactement **`Kalmds509.github.io`**.
+1. Sur GitHub, créez un dépôt **public** nommé exactement **`KalanciaStMartin.github.io`**.
 2. Dans le dossier `portfolio`, lancez :
    ```bash
    git init
    git add .
    git commit -m "Portfolio"
    git branch -M main
-   git remote add origin https://github.com/Kalmds509/Kalmds509.github.io.git
+   git remote add origin https://github.com/KalanciaStMartin/KalanciaStMartin.github.io.git
    git push -u origin main
    ```
 3. Sur GitHub : **Settings → Pages → Source : Deploy from a branch → `main` / `(root)`** → Save.
-4. Après une à deux minutes, le site est en ligne sur **https://kalmds509.github.io**.
+4. Après une à deux minutes, le site est en ligne sur **https://kalanciastmartin.github.io**.
 
 Le dépôt `about-me` reste accessible sur https://kalmds509.github.io/about-me/.
 
